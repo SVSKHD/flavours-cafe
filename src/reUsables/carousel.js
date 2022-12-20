@@ -10,7 +10,7 @@ const Fcaroules = (props) => {
           alt={props.alternative}
         />
         <Carousel.Caption className="text-white">
-          <div className="card">
+          <div className="carousel-card">
             <div className="card-section">
               <h5>{props.title}</h5>
               <p>{props.subtitle}</p>

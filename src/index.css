@@ -14,13 +14,21 @@ t-footer {
   font-family: "Poppins";
 }
 
-.t-align{
-  text-align: center!important;
+.t-align {
+  text-align: center !important;
 }
 
 .card {
   background-color: #393e46 !important;
   color: white;
   border-radius: 0 !important;
+  border-style: none !important;
+}
+
+.carousel-card {
+  background-color: #393e46 !important;
+  padding: 5px;
+  color: white;
+  border-radius: 20px !important;
   border-style: none !important;
 }
