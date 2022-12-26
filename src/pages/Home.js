@@ -4,7 +4,7 @@ const Home = () =>{
 return(
     <>
     <Layout>
-    <h1>Home</h1>
+    <div className="container-fluid"></div>
     </Layout>
     </>
 )
